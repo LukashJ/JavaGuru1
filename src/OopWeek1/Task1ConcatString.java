@@ -7,6 +7,7 @@ public class Task1ConcatString {
 
     public static void main (String [] args) {
 
+        
         Scanner scanner = new Scanner(System.in);
             System.out.println ("Please enter string1:");
                 String string1 = scanner.nextLine();
