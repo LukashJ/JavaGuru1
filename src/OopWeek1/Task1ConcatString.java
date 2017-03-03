@@ -4,7 +4,7 @@ package OopWeek1;
 import java.util.Scanner;
 
 public class Task1ConcatString {
-
+// fom git
     public static void main (String [] args) {
         Scanner scanner = new Scanner(System.in);
             System.out.println ("Please enter string1:");
